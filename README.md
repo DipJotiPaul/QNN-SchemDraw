@@ -13,4 +13,4 @@ A schematic of the DC I-V measurement of nTron is shown.
 
 Another example is an nTron connected with a MOSFET in series with a LED.
 
-![Figure](examples/example_MOSFET.svg)
+![Figure](examples/example_MOSFET.png)
