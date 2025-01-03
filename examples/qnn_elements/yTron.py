@@ -1,7 +1,7 @@
 """
 Created on Wed Jul 13 01:58:39 2022
 
-@author: johng
+@author: pauld
 """
 import math
 import schemdraw
